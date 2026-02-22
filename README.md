@@ -138,14 +138,3 @@ Processing patient_data/Patient_A/Report2.pdf...
 All PDFs converted successfully with logo centered at the top!
 ```
 
-## License
-
-MIT License - feel free to use and modify these scripts.
-
-## Contributing
-
-Feel free to submit issues and enhancement requests!
-
-## Support
-
-For issues or questions, please open an issue on GitHub.
