@@ -5,7 +5,7 @@ from docx.shared import Inches, Pt
 from docx.enum.text import WD_PARAGRAPH_ALIGNMENT
 
 # Configuration
-PDF_FOLDER = ''  # main folder containing patient folders
+PDF_FOLDER = ''  
 OUTPUT_FOLDER = ''
 LOGO_PATH = ''
 DESCRIPTION_TEXT = ''
