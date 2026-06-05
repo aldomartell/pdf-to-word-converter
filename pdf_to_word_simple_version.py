@@ -5,10 +5,10 @@ from docx.shared import Inches, Pt
 from docx.enum.text import WD_PARAGRAPH_ALIGNMENT
 
 # Configuration
-PDF_FOLDER = 'careplans'
-OUTPUT_FOLDER = 'converted_docs'
-LOGO_PATH = 'logo.png'
-DESCRIPTION_TEXT = 'Event Log:'
+PDF_FOLDER = ''
+OUTPUT_FOLDER = ''
+LOGO_PATH = ''
+DESCRIPTION_TEXT = ''
 
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
