@@ -1,0 +1,7 @@
+backup/
+Subfolder/
+logo.png
+*.pdf
+*.docx
+__pycache__/
+*.pyc
